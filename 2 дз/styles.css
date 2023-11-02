@@ -27,6 +27,7 @@ html {
 }
 a { 
    text-decoration: none;color: #A90707;
+   margin: 30px;
 }
 .right {
 	position: relative;
@@ -59,4 +60,17 @@ a {
    width: 17.5%;
     margin: 7px 0 7px 16px;  
       } 
-      
+
+header{
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  font-size: 24px;
+}
+ul{list-style: none;
+margin: 30px;
+padding: 0;
+
+}
